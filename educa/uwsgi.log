@@ -1,0 +1,161 @@
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Jan 21 20:48:16 2024] ***
+compiled with version: 11.4.0 on 09 January 2024 15:24:07
+os: Linux-6.5.0-14-generic #14~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Nov 20 18:15:30 UTC 2
+nodename: patris-HP-Laptop-14-dk0xxx
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /home/patris/Desktop/Education__app/educa
+detected binary path: /home/patris/.pyenv/versions/3.8.16/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 23002
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address educa.sock fd 3
+Python version: 3.8.16 (default, Jan  2 2024, 20:33:19)  [GCC 11.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55806f39ca80
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 72920 bytes (71 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55806f39ca80 pid: 46959 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (and the only) (pid: 46959, cores: 1)
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Jan 21 20:49:54 2024] ***
+compiled with version: 11.4.0 on 09 January 2024 15:24:07
+os: Linux-6.5.0-14-generic #14~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Nov 20 18:15:30 UTC 2
+nodename: patris-HP-Laptop-14-dk0xxx
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /home/patris/Desktop/Education__app/educa
+detected binary path: /home/patris/.pyenv/versions/3.8.16/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 23002
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address educa.sock fd 3
+Python version: 3.8.16 (default, Jan  2 2024, 20:33:19)  [GCC 11.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55c658165a80
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 72920 bytes (71 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55c658165a80 pid: 47038 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (and the only) (pid: 47038, cores: 1)
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Jan 21 20:50:09 2024] ***
+compiled with version: 11.4.0 on 09 January 2024 15:24:07
+os: Linux-6.5.0-14-generic #14~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Nov 20 18:15:30 UTC 2
+nodename: patris-HP-Laptop-14-dk0xxx
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /home/patris/Desktop/Education__app/educa
+detected binary path: /home/patris/.pyenv/versions/3.8.16/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 23002
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address educa.sock fd 3
+Python version: 3.8.16 (default, Jan  2 2024, 20:33:19)  [GCC 11.4.0]
+Python main interpreter initialized at 0x55e2ba187c10
+python threads support enabled
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 101592 bytes (99 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55e2ba187c10 pid: 47108 (default app)
+spawned uWSGI worker 1 (and the only) (pid: 47108, cores: 1)
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Jan 21 20:54:49 2024] ***
+compiled with version: 11.4.0 on 09 January 2024 15:24:07
+os: Linux-6.5.0-14-generic #14~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Nov 20 18:15:30 UTC 2
+nodename: patris-HP-Laptop-14-dk0xxx
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /home/patris/Desktop/Education__app/educa
+detected binary path: /home/patris/.pyenv/versions/3.8.16/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 23002
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address educa.sock fd 3
+Python version: 3.8.16 (default, Jan  2 2024, 20:33:19)  [GCC 11.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55c35aa9da80
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 72920 bytes (71 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55c35aa9da80 pid: 47387 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (and the only) (pid: 47387, cores: 1)
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Jan 21 20:59:15 2024] ***
+compiled with version: 11.4.0 on 09 January 2024 15:24:07
+os: Linux-6.5.0-14-generic #14~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Nov 20 18:15:30 UTC 2
+nodename: patris-HP-Laptop-14-dk0xxx
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /home/patris/Desktop/Education__app/educa
+detected binary path: /home/patris/.pyenv/versions/3.8.16/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 23002
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address educa.sock fd 3
+Python version: 3.8.16 (default, Jan  2 2024, 20:33:19)  [GCC 11.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x56343b0eca80
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 72920 bytes (71 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x56343b0eca80 pid: 47785 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (and the only) (pid: 47785, cores: 1)
+*** Starting uWSGI 2.0.18 (64bit) on [Sun Jan 21 21:00:24 2024] ***
+compiled with version: 11.4.0 on 09 January 2024 15:24:07
+os: Linux-6.5.0-14-generic #14~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Nov 20 18:15:30 UTC 2
+nodename: patris-HP-Laptop-14-dk0xxx
+machine: x86_64
+clock source: unix
+detected number of CPU cores: 8
+current working directory: /home/patris/Desktop/Education__app/educa
+detected binary path: /home/patris/.pyenv/versions/3.8.16/bin/uwsgi
+!!! no internal routing support, rebuild with pcre support !!!
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 23002
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+lock engine: pthread robust mutexes
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address educa.sock fd 3
+Python version: 3.8.16 (default, Jan  2 2024, 20:33:19)  [GCC 11.4.0]
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x55b1e1cfea80
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 72920 bytes (71 KB) for 1 cores
+*** Operational MODE: single process ***
+WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x55b1e1cfea80 pid: 47886 (default app)
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI worker 1 (and the only) (pid: 47886, cores: 1)

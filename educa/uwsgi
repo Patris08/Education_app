@@ -1,0 +1,11 @@
+[Unit]
+Description=uWSGI Emperor for educa website
+After=network.target
+
+[Service]
+User=patris
+Restart=always
+ExecStart=/home/patris/Desktop/Education__app/educa/vassals/uwsgi --emperor /home/patris/Desktop/Education__app/educa/vassals --uid www-data --gid www-data
+
+[Install]
+WantedBy=multi-user.target

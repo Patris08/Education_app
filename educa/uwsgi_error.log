@@ -1,0 +1,19 @@
+*** Starting uWSGI 2.0.20-debian (64bit) on [Mon Jan 22 08:19:35 2024] ***
+compiled with version: 11.2.0 on 21 March 2022 11:00:44
+os: Linux-6.5.0-14-generic #14~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Nov 20 18:15:30 UTC 2
+nodename: patris-HP-Laptop-14-dk0xxx
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 8
+current working directory: /home/patris/Desktop/Education__app/educa
+detected binary path: /usr/bin/uwsgi-core
+setgid() to 33
+setuid() to 33
+*** WARNING: you are running uWSGI without its master process manager ***
+your processes number limit is 23002
+your memory page size is 4096 bytes
+detected max file descriptor number: 1024
+*** starting uWSGI Emperor ***
+[emperor] *** RAGNAROK EVOKED ***
+Mon Jan 22 08:19:49 2024 - The Emperor is buried.
